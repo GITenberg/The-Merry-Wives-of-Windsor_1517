@@ -1,0 +1,29 @@
+_repo: The-Merry-Wives-of-Windsor_1517
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Falstaff, John, Sir (Fictitious character) -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Married women -- Drama'
+- !lcc 'PR'
+- !lcsh 'Windsor (Berkshire, England) -- Drama'
+title: The Merry Wives of Windsor
+url: http://www.gutenberg.org/ebooks/1517
